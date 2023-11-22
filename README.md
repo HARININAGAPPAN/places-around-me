@@ -1,4 +1,4 @@
-![kolur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/6f93aca7-53a0-40a5-8340-24c019016aaa)![deevanur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/9cfb2b88-cf77-4c53-82b9-d811d9e03456)# Places Around Me
+# Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
 
