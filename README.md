@@ -1,4 +1,4 @@
-# Places Around Me
+![kolur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/6f93aca7-53a0-40a5-8340-24c019016aaa)![deevanur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/9cfb2b88-cf77-4c53-82b9-d811d9e03456)# Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
 
@@ -105,13 +105,19 @@ tadumur
 </html>
 ```
 
-## Output:
-![output](./Harinihometown.jpg)
-![output](./tindivanam.png)
-![output](./tadumur.png)
-![output](./kolur.png)
-![output](./salavadi.png)
-![output](./deevanur.png)
+## Output
+![Harinihometown](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/06834c07-fd03-4174-ac47-bc49aec5a1fa)
+![tindivanam](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/2624bbfa-3fbd-4963-ae2e-4f5fca45df74)
+![kolur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/ee2cfd1c-81fc-461b-807d-878b6223fb2f)
+![salavadi](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/6c2ce872-5585-4a68-9467-0153bce5d5cd)
+![tadumur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/07ab18f8-028c-450a-a6ee-e34410a23a43)
+![deevanur](https://github.com/HARININAGAPPAN/places-around-me/assets/147473910/bc0dc500-9428-46d3-a244-99d33d15534a)
+
+
+
+
+
+
 
 ## Result:
 Thus the program executed successfully
