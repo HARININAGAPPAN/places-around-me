@@ -1,12 +1,21 @@
 # Places Around Me
 ## AIM:
-To develop a website to display details about the places around my house.
+To develop a website to display details about the places around tourist places in tamilnadu state map.
 
 ## Design Steps:
+
 ### Step 1:
-write the code appropriately
+write the code appropriately.
 ### Step 2:
-run the program
+downlod tourist places from google.
+### Step 3:
+Using <map> tag name the map.
+### step 4:
+Create clickable regions in the image using <area tag>
+### Step 5:
+Write HTML programs of all the regions identify.
+### Step 6:
+Execute the programs and publish them.
 ## Code:
 ```
 <!DOCTYPE html>
